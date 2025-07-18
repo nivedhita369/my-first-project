@@ -6,6 +6,9 @@ body{
 h2 {
     color: orangered;
 }
+p {
+    font-weight: bold;
+}
 
 /* body{
     background-color: lightgrey;
